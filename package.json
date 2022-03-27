@@ -1,0 +1,8 @@
+{
+  "name": "learning-typeorm-with-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndersonAslap/learning-typeorm-with-postgres.git",
+  "author": "Anderson Adolfo <anderson.adolfo1998@gmail.com>",
+  "license": "MIT"
+}
